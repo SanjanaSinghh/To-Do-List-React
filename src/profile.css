@@ -1,0 +1,9 @@
+#pro{
+    margin: 2%;
+    width: 27%;
+    height: 80px;
+    background-color: rgb(231, 219, 219);
+}
+ #pro>img{
+ width: 100%;   
+}
